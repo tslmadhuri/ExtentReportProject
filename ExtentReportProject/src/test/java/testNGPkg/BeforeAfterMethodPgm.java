@@ -7,13 +7,13 @@ import org.testng.annotations.Test;
 public class BeforeAfterMethodPgm {
 	@BeforeMethod
 	public void beforeMethod(){
-		System.out.println("I am in before method");
+		System.out.println("I am in before method-beforemethod updated in git");
 	}
 	
 	
 	
 	@AfterMethod
 	public void afterMethod() {
-		System.out.println("I am in after method");
+		System.out.println("I am in after method_aftermethod update din git");
 	}
 }
