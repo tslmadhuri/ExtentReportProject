@@ -8,7 +8,7 @@ public class BeforeAfterMethodPgm {
 	@BeforeMethod
 	public void beforeMethod(){
 
-		System.out.println("I am in before method");
+		System.out.println("I am in before method_eclipseModification");
 
 	}
 	
