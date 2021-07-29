@@ -7,7 +7,9 @@ import org.testng.annotations.Test;
 public class BeforeAfterMethodPgm {
 	@BeforeMethod
 	public void beforeMethod(){
-		System.out.println("I am in before method-beforemethod updated in git");
+
+		System.out.println("I am in before method_eclipseModification");
+
 	}
 	
 	
