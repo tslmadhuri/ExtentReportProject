@@ -9,7 +9,7 @@ public class testMethodClass2 {
 	
 	@Test
 	public void testMethod4() {
-		System.out.println("I am in test method4");
+		System.out.println("I am in test method4_test");
 	}
 	
 	@Test
