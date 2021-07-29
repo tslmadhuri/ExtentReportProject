@@ -12,7 +12,7 @@ public class testMethodClass2 {
 	
 	@Test
 	public void testMethod5() {
-		System.out.println("I am in test method5");
+		System.out.println("I am in test method5 >> commit again");
 	}
 	
 	@Test
