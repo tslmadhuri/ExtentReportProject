@@ -4,9 +4,7 @@ import org.testng.annotations.Test;
 
 public class testMethodClass2 {
 	
-	
-	
-	
+		
 	@Test
 	public void testMethod4() {
 		System.out.println("I am in test method4_test1 >> test commit");
